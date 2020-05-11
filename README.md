@@ -1,0 +1,2 @@
+# NIDS
+Network Intrusion Detection System (NIDS) is a software application that monitors the network or system activities for malicious activities and unauthorized access to devices. The objective of designing NIDS is to protect the data confidential.  This project includes the implementation of different data mining algorithms including Logistic regression, Gaussian NB and Decision tree to generate the rules for classify network activities. A comparative analysis of these techniques to detect intrusions has also been made.UNSW-NB15 dataset has been used for implementation.
